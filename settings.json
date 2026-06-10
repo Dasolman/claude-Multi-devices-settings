@@ -2,7 +2,7 @@
   "mcpServers": {
     "onenote": {
       "command": "node",
-      "args": ["C:\\Users\\haksu\\mcp-servers\\onenote-mcp\\onenote-mcp.mjs"]
+      "args": ["${OneDrive}\\Desktop\\4. REFS\\43. STDY\\ITCO\\Claude\\mcp-servers\\onenote-mcp\\onenote-mcp.mjs"]
     },
     "notion": {
       "command": "npx",
@@ -13,7 +13,7 @@
     },
     "samsung-notes": {
       "command": "python",
-      "args": ["D:\\OneDrive\\Desktop\\4. REFS\\43. STDY\\ITCO\\Claude\\samsung_notes_mcp.py"]
+      "args": ["${OneDrive}\\Desktop\\4. REFS\\43. STDY\\ITCO\\Claude\\samsung_notes_mcp.py"]
     },
     "todoist": {
       "command": "node",
