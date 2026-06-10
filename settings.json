@@ -23,7 +23,7 @@
       }
     },
     "kakaotalk": {
-      "command": "C:\\Users\\haksu\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\kakaotalk-mcp.exe"
+      "command": "kakaotalk-mcp"
     },
     "obsidian": {
       "type": "http",
