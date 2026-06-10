@@ -1,0 +1,26 @@
+# 기본: 전부 제외
+*
+
+# 동기화할 항목만 포함
+!.gitignore
+!CLAUDE.md
+!settings.json
+!commands/
+!commands/**
+!skills/
+!skills/**
+!agents/
+!agents/**
+!hooks/
+!hooks/**
+!output-styles/
+!output-styles/**
+!rules/
+!rules/**
+
+# 보안: 어떤 경우에도 제외 (허용 목록보다 우선)
+.credentials.json
+**/credentials*
+**/*api_key*
+**/*.pem
+**/*.key
